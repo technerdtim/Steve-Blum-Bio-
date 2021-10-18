@@ -1,0 +1,53 @@
+body {
+       background-color: cadetblue;
+}
+
+.title {
+    color:crimson;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 300%;
+
+}
+
+
+
+
+.cap{
+    color: crimson;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 150%;
+}
+
+.bio{
+    color: crimson;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 175%;
+}
+
+.wiki{
+    color: crimson;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 125%;
+}
+
+.blum{
+    color: crimson;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 125%;
+}
+
+#image{
+    flex: 100%
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        max-width: 500%
+    
+}
